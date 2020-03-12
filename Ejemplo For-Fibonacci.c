@@ -24,6 +24,6 @@ int main(void)
       y=z;
  	 }  
   }
-  getchar();
+  getchar(); //Es como un system pause
   return 0;
 }
