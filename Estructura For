@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <math.h>
+#include <windows.h>
+
+int main()
+{
+	//Declarando variables
+	int cont;
+	//for (valor de inicio; valor de paro; incremento/decremento
+	for(cont=1;cont<=100;cont++){
+		printf ("%d.- Te amo <3\n",cont);
+	}
+}
